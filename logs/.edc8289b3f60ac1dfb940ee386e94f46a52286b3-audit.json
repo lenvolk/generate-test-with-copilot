@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "c:\\Temp\\GIT\\generate-test-with-copilot\\logs\\.edc8289b3f60ac1dfb940ee386e94f46a52286b3-audit.json",
+    "files": [
+        {
+            "date": 1755790575796,
+            "name": "c:\\Temp\\GIT\\generate-test-with-copilot\\logs\\mcp-puppeteer-2025-08-21.log",
+            "hash": "da92310b546e53f73862e281fe4b594236f9d8e5bcd3249d8b85359471833dee"
+        }
+    ],
+    "hashType": "sha256"
+}
