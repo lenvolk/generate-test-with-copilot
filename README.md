@@ -20,6 +20,14 @@ Generate a Playwright test for the following scenario:
 3. verify the movie is in the list
 ```
 
+## How to Validate the Test
+After running your Playwright test, you can view the detailed results in your browser:
+
+```
+npx playwright show-report --port=9324
+```
+This will open the Playwright HTML report on port 9324, allowing you to inspect the test run and results visually.
+
 ## Workflow Diagram
 ```mermaid
 graph TD
